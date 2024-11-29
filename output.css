@@ -2016,3 +2016,17 @@ video {
     --tw-ring-color: rgb(30 64 175 / var(--tw-ring-opacity));
   }
 }
+@media only screen and (max-width: 768px) {
+  .add-mar {
+    max-width: 70% !important;    
+    margin-left: 55px;
+    margin-top: auto !important;
+  }
+}
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+  .add-width {
+    max-width: 88% !important;
+    margin-left: 10px;
+    /* margin-top: auto !important; */
+  }
+}
