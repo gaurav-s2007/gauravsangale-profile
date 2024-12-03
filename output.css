@@ -2073,7 +2073,7 @@ video {
 }
 
 .bar{
-  font-size: 23px;
+  font-size: 18px;
 }
 .Technical-bars .bar{
   margin: 40px 0;
@@ -2351,7 +2351,10 @@ flex-wrap: wrap;
 }
 
 .heading{
-  font-size: 25px;
+  font-size: 20px;
+}
+.color-add{
+  color: rgb(252 129 92);
 }
 
 .mar-bot{
