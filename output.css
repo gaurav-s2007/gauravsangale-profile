@@ -2356,7 +2356,7 @@ flex-wrap: wrap;
   font-size: 20px;
 }
 .color-add{
-  color: rgb(252 129 92);
+  color: rgb(255 229 120);
 }
 
 .mar-bot{
@@ -2426,17 +2426,18 @@ flex-wrap: wrap;
   text-align: center;
   margin: 25px 0px;
   /* color: #f9004d; */
-  color: rgb(255 229 120);
+  color: rgb(23 136 174);
 }
 
 h5{
-  color: white;
+  /* color: white; */
+  color:rgb(252 129 92); 
   font-size: 23px;
   margin-bottom: 15px;
 }
 
 .pra p{
-color: #fcfc;
+color: white;
 font-size: 16px;
 line-height: 27px;
 margin-bottom: 25px;
@@ -2445,7 +2446,7 @@ margin-bottom: 25px;
 
 .cardf .button{
 /* background-color: #f9004d; */
-background-color: rgb(255 229 120);
+background-color: rgb(23 136 174);
 color: white;
 text-decoration: none;
 border: 2px solid transparent;
@@ -2458,7 +2459,7 @@ transition: .4s;
 .cardf .button:hover{
 background-color: transparent;
 /* border: 2px solid #f9004d; */
-border: 2px solid rgb(255 229 120);
+border: 2px solid rgb(23 136 174);
 cursor: pointer;
 }
 
