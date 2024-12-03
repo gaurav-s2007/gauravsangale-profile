@@ -2425,8 +2425,8 @@ flex-wrap: wrap;
   display: block;
   text-align: center;
   margin: 25px 0px;
-  color: #f9004d;
-
+  /* color: #f9004d; */
+  color: rgb(255 229 120);
 }
 
 h5{
@@ -2444,7 +2444,8 @@ margin-bottom: 25px;
 
 
 .cardf .button{
-background-color: #f9004d;
+/* background-color: #f9004d; */
+background-color: rgb(255 229 120);
 color: white;
 text-decoration: none;
 border: 2px solid transparent;
@@ -2456,7 +2457,8 @@ transition: .4s;
 
 .cardf .button:hover{
 background-color: transparent;
-border: 2px solid #f9004d;
+/* border: 2px solid #f9004d; */
+border: 2px solid rgb(255 229 120);
 cursor: pointer;
 }
 
