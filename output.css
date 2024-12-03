@@ -2056,11 +2056,13 @@ video {
   @media screen and (max-width: 768px) {
       margin-top: 150px;
       margin-left: auto;
+      padding: 0px 0px;
   }
 
   @media (min-width: 769px) and (max-width: 1024px) {
       margin-top: 150px;
       margin-left: 100px;
+      padding: 0px 0px;
   }
 }
 
