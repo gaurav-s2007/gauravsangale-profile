@@ -2440,7 +2440,7 @@ h5{
 color: white;
 font-size: 16px;
 line-height: 27px;
-margin-bottom: 25px;
+margin-bottom: 22px;
 }
 
 
@@ -2500,3 +2500,6 @@ cursor: pointer;
         }
       }
 
+.logo-cent{
+  margin-left: 67px;
+}
